@@ -8,7 +8,7 @@
 
 <p>
   <img src="https://img.shields.io/github/followers/twwch?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0D1117" />
-  <!-- TOTAL_STARS_BADGE_START --><img src="https://img.shields.io/badge/Total%20Stars-3.9k-F59E0B?style=for-the-badge&labelColor=0D1117" /><!-- TOTAL_STARS_BADGE_END -->
+  <!-- TOTAL_STARS_BADGE_START --><img src="https://img.shields.io/badge/Total%20Stars-3.9k%2B-F59E0B?style=for-the-badge&labelColor=0D1117" /><!-- TOTAL_STARS_BADGE_END -->
   <img src="https://komarev.com/ghpvc/?username=twwch&style=for-the-badge&color=10B981&label=Profile+Views" />
 </p>
 
