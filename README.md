@@ -32,7 +32,7 @@ const chenhao = {
 - 🧠 **Vibe Coding 深度实践者** — 从零用 Claude Code 搭建完整产品，代表作 [`vibe-coding`](https://github.com/twwch/vibe-coding) ⭐ 500+
 - 🤖 **AI 应用 / Agent 架构** — 专注 LLM × 工作流 × Skill System × MCP
 - 🧰 **全栈工程** — Next.js / Node / Python / K8s，端到端交付
-- 🌱 **开源 49+ 仓库**，累计 **3.5k+ stars**，代表作均已 Docker 一键部署
+- 🌱 **开源 50 仓库**，累计 **3.9k+ stars**，代表作均已 Docker 一键部署
 
 ---
 
@@ -156,12 +156,12 @@ const chenhao = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=twwch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=7C3AED&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twwch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&langs_count=8" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=twwch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=7C3AED&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=twwch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=twwch&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=F59E0B" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=twwch&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-readme-trophy.vercel.app/?username=twwch&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=twwch&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F59E0B&line=7C3AED&point=C9D1D9&area=true" width="98%" />
 
