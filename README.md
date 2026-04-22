@@ -8,7 +8,7 @@
 
 <p>
   <img src="https://img.shields.io/github/followers/twwch?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0D1117" />
-  <!-- TOTAL_STARS_BADGE_START --><img src="https://img.shields.io/badge/Total%20Stars-4.2k%2B-F59E0B?style=for-the-badge&labelColor=0D1117" /><!-- TOTAL_STARS_BADGE_END -->
+  <!-- TOTAL_STARS_BADGE_START --><img src="https://img.shields.io/badge/Total%20Stars-4.3k%2B-F59E0B?style=for-the-badge&labelColor=0D1117" /><!-- TOTAL_STARS_BADGE_END -->
   <img src="https://komarev.com/ghpvc/?username=twwch&style=for-the-badge&color=10B981&label=Profile+Views" />
 </p>
 
@@ -32,7 +32,7 @@ const chenhao = {
 - 🧠 **Vibe Coding 深度实践者** — 从零用 Claude Code 搭建完整产品，代表作 [`vibe-coding`](https://github.com/twwch/vibe-coding) ⭐ 500+
 - 🤖 **AI 应用 / Agent 架构** — 专注 LLM × 工作流 × Skill System × MCP
 - 🧰 **全栈工程** — Next.js / Node / Python / K8s，端到端交付
-- 🌱 <!-- STATS_LINE_START -->开源 **52** 仓库，累计 **4.2k+** stars<!-- STATS_LINE_END -->，代表作均已 Docker 一键部署
+- 🌱 <!-- STATS_LINE_START -->开源 **52** 仓库，累计 **4.3k+** stars<!-- STATS_LINE_END -->，代表作均已 Docker 一键部署
 
 ---
 
